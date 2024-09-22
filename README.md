@@ -18,3 +18,7 @@ yarn prisma studio # 프리즈마 스튜디오
 ```
 yarn prisma migrate dev --name ["메시지"]
 ```
+
+
+## 참고 자료 
+[firebase](https://velog.io/@sanglee/Next.js-Firebase%EB%A1%9C-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%A7%8C%EB%93%A4%EA%B8%B0)
