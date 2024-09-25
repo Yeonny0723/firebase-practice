@@ -10,6 +10,6 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "prettier.requireConfig": false,
   "editor.codeActionsOnSave": {
-    "source.fixAll": true
+    "source.fixAll": "explicit"
   }
 }
