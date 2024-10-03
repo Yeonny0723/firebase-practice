@@ -12,7 +12,8 @@
     "lint:fix": "eslint . --ext .ts,.tsx --fix",
     "prepare": "husky install",
     "postinstall": "husky install",
-    "precommit": "lint-staged"
+    "precommit": "lint-staged",
+    "buildDeploy": "yarn build && firebase deploy --only hosting"
   },
   "lint-staged": {
     "*.{js,jsx,ts,tsx}": [
